@@ -13,3 +13,4 @@ Topic 2: Data distributions and data transformation
 1. different distribution in test and training datasets
 2. transfer non-normal to close to normal
   2.1 box-cox transformation
+  2.2 log and power transformations
