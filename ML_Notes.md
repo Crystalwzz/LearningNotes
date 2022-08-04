@@ -8,9 +8,10 @@ Why? Reduce the probability of introducing bias, most ML algorithms require comp
 
 My imputation example:
 Missing Data. The ELS:2002 study had missing data ranging from 3% to 30% due to survey item nonresponse. After examining the missing patterns, it was determined that missing occurred randomly. Since missing data can reduce sample size and potentially increase estimate bias, imputation was used as a strategy to replace missing values (Allison, 2005). More specifically, we used fully conditional specification algorithms for the imputation. 
+-- SAS mi resource: https://support.sas.com/resources/papers/proceedings15/2081-2015.pdf
 
 ## Topic 2: Data distributions and data transformation
 1. different distribution in test and training datasets
 2. transfer non-normal to close to normal 
-  -2.1 box-cox transformation
-  -2.2 log and power transformations
+  -2.1 box-cox transformation: https://www.statisticshowto.com/probability-and-statistics/normal-distributions/box-cox-transformation/
+       log and power transformations
