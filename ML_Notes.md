@@ -7,7 +7,7 @@ Techniques:
 Why? Reduce the probability of introducing bias, most ML algorithms require complete data
 
 My imputation example:
-Missing Data. The ELS:2002 study had missing data ranging from 3% to 30% due to survey item nonresponse. After examining the missing patterns, it was determined that missing occurred randomly. Since missing data can reduce sample size and potentially increase estimate bias, imputation was used as a strategy to replace missing values (Allison, 2005). More specifically, we used fully conditional specification algorithms for the imputation. 
+Missing Data. The ELS:2002 study had missing data ranging from 3% to 30% due to survey item nonresponse. After examining the missing patterns, it was determined that missing occurred randomly. Since missing data can reduce sample size and potentially increase estimate bias, imputation was used as a strategy to replace missing values (Allison, 2005). More specifically, we used fully conditional specification algorithms for the imputation. <br/>
 -- SAS mi resource: https://support.sas.com/resources/papers/proceedings15/2081-2015.pdf
 
 ## Topic 2: Data distributions and data transformation
